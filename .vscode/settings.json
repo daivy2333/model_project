@@ -1,3 +1,5 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "Codegeex.GenerationPreference": "line by line",
+    "Codegeex.CompletionDelay": 3
 }

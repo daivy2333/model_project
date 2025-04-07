@@ -11,7 +11,7 @@ def main():
     model, preprocess, device= load_clip_model()
 
     # 初始化文本列表，这里为空列表
-    texts= ["一个熊猫", "一个只有背影的美女", "一张阿尔卑斯山的风景照"]
+    texts= ["pandas", "a girl", "mountain"]
 
     # 创建图像文本数据集，传入图像文件夹路径、文本列表和预处理函数
     dataset= ImageTextDataset(image_folder="clip\images", text_list=texts, preprocess=preprocess)

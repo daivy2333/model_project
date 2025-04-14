@@ -1,1 +1,4 @@
 手动复现2015年resnet解决cifar10分类问题
+以及，发现vit解决cifar有点大材小用了
+
+很明显，cifar10，resnet就够用了

@@ -1,0 +1,371 @@
+Q: What is the capital of France?
+A: Paris
+
+Q: Who wrote the play Romeo and Juliet?
+A: William Shakespeare
+
+Q: What is the largest planet in our solar system?
+A: Jupiter
+
+Q: How many continents are there on Earth?
+A: Seven
+
+Q: What is the chemical symbol for water?
+A: H2O
+
+Q: What gas do plants absorb from the atmosphere?
+A: Carbon dioxide
+
+Q: Who painted the Mona Lisa?
+A: Leonardo da Vinci
+
+Q: What is the square root of 64?
+A: 8
+
+Q: Which element has the atomic number 1?
+A: Hydrogen
+
+Q: How many legs does a spider have?
+A: Eight
+
+Q: What is the capital of Japan?
+A: Tokyo
+
+Q: Who discovered gravity?
+A: Isaac Newton
+
+Q: What is the largest mammal?
+A: Blue whale
+
+Q: How many days are there in a leap year?
+A: 366
+
+Q: Which planet is known as the Red Planet?
+A: Mars
+
+Q: Who was the first president of the United States?
+A: George Washington
+
+Q: What is the boiling point of water in Celsius?
+A: 100
+
+Q: What language is spoken in Brazil?
+A: Portuguese
+
+Q: What is the capital of Canada?
+A: Ottawa
+
+Q: Who invented the lightbulb?
+A: Thomas Edison
+
+Q: What is the fastest land animal?
+A: Cheetah
+
+Q: What is the capital of Germany?
+A: Berlin
+
+Q: How many bones are in the adult human body?
+A: 206
+
+Q: What is the smallest prime number?
+A: 2
+
+Q: Which country is known for the Great Wall?
+A: China
+
+Q: What organ pumps blood through the body?
+A: Heart
+
+Q: Who was the famous female scientist who researched radioactivity?
+A: Marie Curie
+
+Q: What is the freezing point of water in Celsius?
+A: 0
+
+Q: How many strings does a standard guitar have?
+A: Six
+
+Q: What is the capital of Italy?
+A: Rome
+
+Q: Which ocean is the largest?
+A: Pacific Ocean
+
+Q: What is the name of our galaxy?
+A: Milky Way
+
+Q: What do bees make?
+A: Honey
+
+Q: Which animal is known as the King of the Jungle?
+A: Lion
+
+Q: How many colors are there in a rainbow?
+A: Seven
+
+Q: What is 10 multiplied by 10?
+A: 100
+
+Q: Who is the author of Harry Potter?
+A: J.K. Rowling
+
+Q: What is the capital of Australia?
+A: Canberra
+
+Q: What is the largest organ in the human body?
+A: Skin
+
+Q: Who developed the theory of relativity?
+A: Albert Einstein
+
+Q: What is the name of the fairy in Peter Pan?
+A: Tinker Bell
+
+Q: Which bird is known for mimicking sounds?
+A: Parrot
+
+Q: What is the capital of India?
+A: New Delhi
+
+Q: How many planets are in the solar system?
+A: Eight
+
+Q: What do cows drink?
+A: Water
+
+Q: Which fruit is known to keep doctors away?
+A: Apple
+
+Q: What is the capital of the United Kingdom?
+A: London
+
+Q: What does a thermometer measure?
+A: Temperature
+
+Q: What is the opposite of hot?
+A: Cold
+
+Q: What is the tallest mountain in the world?
+A: Mount Everest
+
+Q: What instrument has 88 keys?
+A: Piano
+
+Q: What is the process by which plants make food?
+A: Photosynthesis
+
+Q: What is the main ingredient in guacamole?
+A: Avocado
+
+Q: Who is known as the father of computers?
+A: Charles Babbage
+
+Q: What color do you get when you mix red and blue?
+A: Purple
+
+Q: What is the name of the longest river in the world?
+A: Nile
+
+Q: What is the opposite of day?
+A: Night
+
+Q: Which metal is liquid at room temperature?
+A: Mercury
+
+Q: What do you call an animal that eats only plants?
+A: Herbivore
+
+Q: In which sport would you perform a slam dunk?
+A: Basketball
+
+Q: What is the hardest natural substance on Earth?
+A: Diamond
+
+Q: How many minutes are in an hour?
+A: 60
+
+Q: What is the color of chlorophyll?
+A: Green
+
+Q: What gas do humans need to breathe?
+A: Oxygen
+
+Q: What is the name of Sherlock Holmes’ assistant?
+A: Dr. Watson
+
+Q: Which month comes after October?
+A: November
+
+Q: What is a baby cat called?
+A: Kitten
+
+Q: What is the largest desert in the world?
+A: Sahara
+
+Q: What shape has three sides?
+A: Triangle
+
+Q: What do you call frozen water?
+A: Ice
+
+Q: How many hours are there in a day?
+A: 24
+
+Q: What is the capital city of Spain?
+A: Madrid
+
+Q: What do you call an animal that sleeps during the day and is active at night?
+A: Nocturnal
+
+Q: What is the process of water turning into vapor called?
+A: Evaporation
+
+Q: Which bird cannot fly but can swim?
+A: Penguin
+
+Q: Who is the main character in the video game series "The Legend of Zelda"?
+A: Link
+
+Q: What is the tallest animal on Earth?
+A: Giraffe
+
+Q: How many letters are there in the English alphabet?
+A: 26
+
+Q: What currency is used in Japan?
+A: Yen
+
+Q: What is the hardest rock?
+A: Diamond
+
+Q: What do you call a story that teaches a moral lesson?
+A: Fable
+
+Q: Which part of the body lets you see?
+A: Eyes
+
+Q: Who invented the telephone?
+A: Alexander Graham Bell
+
+Q: What’s the name of the pirate in Peter Pan?
+A: Captain Hook
+
+Q: What type of animal is a Komodo dragon?
+A: Lizard
+
+Q: What is the capital of Egypt?
+A: Cairo
+
+Q: What is the liquid inside a thermometer called?
+A: Mercury
+
+Q: What is the opposite of up?
+A: Down
+
+Q: What color is a ripe banana?
+A: Yellow
+
+Q: What is a young dog called?
+A: Puppy
+
+Q: Who lives in a pineapple under the sea?
+A: SpongeBob SquarePants
+
+Q: What is the process of turning solid directly into gas called?
+A: Sublimation
+
+Q: What is the main language spoken in Mexico?
+A: Spanish
+
+Q: How many wheels does a tricycle have?
+A: Three
+
+Q: What is a polygon with six sides called?
+A: Hexagon
+
+Q: Which planet has a ring system?
+A: Saturn
+
+Q: What do camels store in their humps?
+A: Fat
+
+Q: What is the capital of Russia?
+A: Moscow
+
+Q: What is 5 squared?
+A: 25
+
+Q: What gas do humans exhale?
+A: Carbon dioxide
+
+Q: What animal is known for building dams?
+A: Beaver
+
+Q: Who painted "The Starry Night"?
+A: Vincent van Gogh
+
+Q: What month has Valentine’s Day?
+A: February
+
+Q: What is the color of an emerald?
+A: Green
+
+Q: Which food is known as brain food?
+A: Fish
+
+Q: What’s the name of the fairy tale girl with long hair?
+A: Rapunzel
+
+Q: What’s the capital of South Korea?
+A: Seoul
+
+Q: What is a group of lions called?
+A: Pride
+
+Q: What is frozen rain called?
+A: Hail
+
+Q: What fruit has seeds on the outside?
+A: Strawberry
+
+Q: What number comes after 99?
+A: 100
+
+Q: Who is the superhero known as the Dark Knight?
+A: Batman
+
+Q: What do you use to write on a blackboard?
+A: Chalk
+
+Q: What do you call an insect that makes honey?
+A: Bee
+
+Q: What’s the opposite of fast?
+A: Slow
+
+Q: What is the name of the toy cowboy in Toy Story?
+A: Woody
+
+Q: What’s the name of the red planet?
+A: Mars
+
+Q: What is the largest internal organ in the human body?
+A: Liver
+
+Q: What do we call a shape with four equal sides?
+A: Square
+
+Q: What is the opposite of cold?
+A: Hot
+
+Q: What is the capital of France?
+A: Paris
+
+Q: What is the opposite of right?
+A: Left
+
+Q: What is the largest organ in the human body?
+A: Skin
+
+Q: What is the name of the superhero who can fly?
+A: Superman

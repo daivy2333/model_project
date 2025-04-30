@@ -1,0 +1,5 @@
+# 训练模型
+python_train.py
+
+# 使用训练模型生成回答
+python_generate.py

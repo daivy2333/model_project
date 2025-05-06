@@ -5,3 +5,23 @@ python_train.py
 python_generate.py
 
 更新input.txt文件，重新训练模型就可以适配新的数据集了。
+
+但是我的电脑配置跟不上，目前也只能到这个程度
+你：bye bye,my boy 
+🤖：the man with the ground and comes with the face of the gun with the gun, and he says, "Can you see the women who are in the water?" And the women who are all young are ready to say, "Well we can have a long way to go. So he starts asking for a better question. Can we have the women in the clinic, in the BMW and the husbands in the room, in the audience: Can you have
+
+"
+不打算再继续拉扯
+
+pre.py的作用是读取csv，因为我是找ted演讲的资源做的，就弄了这个读取csv的功能，没有的话
+准备一个txt的文件当数据集就好（当然太少了肯定训不出来）
+
+word.tr进行预处理
+会生成几个文件，vocab,train,valid的文件，在data文件夹下
+
+
+可以使用tensorboard查看训练过程
+
+运行过word_tr后直接跑train.py就可以了
+
+记得调参数，没有gpu建议不要跑，现在的参数是我的4060的极限，请不要过度劳累gpu，会罢工的

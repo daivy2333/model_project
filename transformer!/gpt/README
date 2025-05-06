@@ -3,3 +3,5 @@ python_train.py
 
 # 使用训练模型生成回答
 python_generate.py
+
+更新input.txt文件，重新训练模型就可以适配新的数据集了。
